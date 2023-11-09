@@ -1,3 +1,5 @@
+//Given n and an array a of size n-1 find the missing number from 1 to n.
+
 #include<bits/stdc++.h>
 using namespace std;
 
